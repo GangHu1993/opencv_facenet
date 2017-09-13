@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/hugang/workSpace/python/tensorflow/faceNet/mctnn_facenet/real_time_face_recognition-master/model_check_point/model-20160506.ckpt-500000"
+all_model_checkpoint_paths: "//home/hugang/workSpace/python/tensorflow/faceNet/mctnn_facenet/real_time_face_recognition-master/model_check_point/model-20160506.ckpt-500000"
